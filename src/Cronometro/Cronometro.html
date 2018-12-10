@@ -8,9 +8,9 @@
                     <div class="panel-body">
                         Este es el cuerpo Componente Cronometro.vue!
                     </div>
-					<b-button><a v-on:click="reiniciarTiempo">Reiniciar</a></b-button>
-					<b-button @click="continuarTiempo">Continuar</b-button>
-					<b-button @click="pararTiempo">Parar</b-button>
+					<b-button name="reiniciar"><a v-on:click="reiniciarTiempo">Reiniciar</a></b-button>
+					<b-button name="continuar" @click="continuarTiempo">Continuar</b-button>
+					<b-button  name="parar" @click="pararTiempo">Parar</b-button>
 					<p> {{ formatearTiempo() }}
 					</p>
                 </div>
