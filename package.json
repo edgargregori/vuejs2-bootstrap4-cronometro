@@ -13,6 +13,15 @@
     "bootstrap": "^4.0.0-beta.2",
     "bootstrap-vue": "^1.2.0"
   },
+  "repository": {
+	  "type": "git",
+	  "url": "git+https://github.com/edgargregori/vuejs2-bootstrap4-cronometro.git"
+  },
+  "bugs": {
+	  "url": "https://github.com/edgargregori/vuejs2-bootstrap4-cronometro/issues"
+  },
+   "homepage":"https://github.com/edgargregori/vuejs2-bootstrap4-cronometro#README"
+  ,
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^6.0.0",
