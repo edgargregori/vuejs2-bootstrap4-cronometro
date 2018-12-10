@@ -1,7 +1,7 @@
 {
   "name": "vue-cronometro",
   "description": "A Vue.js project",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "edgargregori <edgar.gregori.eg@gmail.com>",
   "license": "MIT",
   "main": "dist/vue-cronometro.js",
