@@ -10,3 +10,7 @@ yarn-error.log
 *.ntvs*
 *.njsproj
 *.sln
+*.bk
+!*.bk
+*.*.*.bk
+recycle/*.*
