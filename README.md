@@ -1,6 +1,16 @@
+
 # vuejs2-bootstrap4--cronometro
 
 > A Vue.js project
+
+## Instalar el componente.
+
+``` bash
+
+# install dependencies
+npm install --save-dev  vuejs2-bootstrap4-cronometro
+
+```
 
 ## Build Setup
 
