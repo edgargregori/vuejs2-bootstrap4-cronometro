@@ -40,10 +40,7 @@ import "bootstrap-vue/dist/bootstrap-vue.css"
 Vue.use(BootstrapVue)
 
     export default {
-		components: {
-			//'vue-clock': VueClock
-		},
-		name: 'cronometro',
+	name: 'cronometro',
         mounted() {
             console.log('Component mounted.')
 			this.contarSegundos();
