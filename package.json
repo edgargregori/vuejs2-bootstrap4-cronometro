@@ -1,27 +1,26 @@
 {
   "name": "vuejs2-bootstrap4-cronometro",
   "description": "A Vue.js project",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "edgargregori <edgar.gregori.eg@gmail.com>",
   "license": "MIT",
   "main": "dist/vue-cronometro.js",
   "scripts": {
-  "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
-  "build": "rimraf ./dist && webpack --config webpack.config.js"
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
+    "build": "rimraf ./dist && webpack --config webpack.config.js"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
     "bootstrap-vue": "^1.2.0"
   },
   "repository": {
-	  "type": "git",
-	  "url": "git+https://github.com/edgargregori/vuejs2-bootstrap4-cronometro.git"
+    "type": "git",
+    "url": "git+https://github.com/edgargregori/vuejs2-bootstrap4-cronometro.git"
   },
   "bugs": {
-	  "url": "https://github.com/edgargregori/vuejs2-bootstrap4-cronometro/issues"
+    "url": "https://github.com/edgargregori/vuejs2-bootstrap4-cronometro/issues"
   },
-   "homepage":"https://github.com/edgargregori/vuejs2-bootstrap4-cronometro#README"
-  ,
+  "homepage": "https://github.com/edgargregori/vuejs2-bootstrap4-cronometro#README",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^6.0.0",
