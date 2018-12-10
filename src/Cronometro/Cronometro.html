@@ -1,0 +1,19 @@
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="panel panel-default">
+                    <div class="panel-heading">Componente Cronometro.vue</div>
+
+                    <div class="panel-body">
+                        Este es el cuerpo Componente Cronometro.vue!
+                    </div>
+					<b-button><a v-on:click="reiniciarTiempo">Reiniciar</a></b-button>
+					<b-button @click="continuarTiempo">Continuar</b-button>
+					<b-button @click="pararTiempo">Parar</b-button>
+					<p> {{ formatearTiempo() }}
+					</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
