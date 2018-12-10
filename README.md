@@ -8,7 +8,8 @@
 ``` bash
 
 # install dependencies
-npm install --save-dev  vuejs2-bootstrap4-cronometro
+npm install --save-dev  @edgargregori/vuejs2-bootstrap4-cronometro
+npm install --save-dev  vue-cronometro
 
 ```
 
