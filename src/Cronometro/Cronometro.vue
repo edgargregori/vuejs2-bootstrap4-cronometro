@@ -6,6 +6,6 @@
 </script>
 
 
-<style rel="stylesheet" href="dist/main.css">
+<style src="node_modules/vue-cronometro/dist/main.css">
 <style>
 ~        
