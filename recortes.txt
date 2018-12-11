@@ -1,0 +1,2 @@
+
+npm install --save-dev  @edgargregori/vuejs2-bootstrap4-cronometro

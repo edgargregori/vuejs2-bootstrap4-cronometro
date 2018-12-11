@@ -63,9 +63,7 @@ Vue.use(BootstrapVue)
 			},
 			reiniciarTiempo: function(event) {
 			    event.preventDefault();
-      			//this.tiempo = null;
 				this.tiempo = 0;
-				//this.guardarEnLocalStorage();
 			},
 			formatearTiempo: function () {
 				return formatearTiempoDesdeSegundos(this.tiempo);
